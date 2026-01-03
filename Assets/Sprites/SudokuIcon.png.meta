@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SudokuIcon_0: 8119982482687524292
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
